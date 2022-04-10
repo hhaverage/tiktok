@@ -7,7 +7,7 @@
 2、打开Shadowrocket → 配置 → default.conf → 编辑配置 → HTTPS解密 → 开启HTTPS解密 → 生成新的CA订书 → 生成新的CA订书 → 安装证书 → 允许 → 打开设置 → 已下载描述文件 → 安装 → 安装 → 安装 → 完成 → 通用 → 关于本机 → 证书信任设置 → 开启信任Shadowrocket证书 → 继续 → 打开Shadowrocket → 关闭 → √ → √ → 配置 → default.conf → 编辑纯文本 → 滚动条拉到最下面
 在最下面粘贴以下代码：
 
-
+&nbsp;
 
 ```
 [URL Rewrite]
@@ -19,7 +19,7 @@
 [MITM]
 hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
 ```
-
+&nbsp;
 
 再点击保存。
 
