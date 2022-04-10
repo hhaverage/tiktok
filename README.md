@@ -7,6 +7,8 @@ Shadowrocket TikTok配置，iphone tiktok不拔卡教程，ios免拔卡
 2、打开Shadowrocket → 配置 → default.conf → 编辑配置 → HTTPS解密 → 开启HTTPS解密 → 生成新的CA订书 → 生成新的CA订书 → 安装证书 → 允许 → 打开设置 → 已下载描述文件 → 安装 → 安装 → 安装 → 完成 → 通用 → 关于本机 → 证书信任设置 → 开启信任Shadowrocket证书 → 继续 → 打开Shadowrocket → 关闭 → √ → √ → 配置 → default.conf → 编辑纯文本 → 滚动条拉到最下面
 在最下面粘贴以下代码：
 
+
+
 [URL Rewrite]
 (?<=_region=)CN(?=&) JP 307
 (?<=&mcc_mnc=)4 2 307
@@ -15,6 +17,7 @@ Shadowrocket TikTok配置，iphone tiktok不拔卡教程，ios免拔卡
 
 [MITM]
 hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
+
 
 
 再点击保存。
