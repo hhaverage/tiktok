@@ -1,11 +1,12 @@
 # Tiktok
-# Shadowrocket TikTok配置，iphone tiktok不拔卡教程，ios免拔卡
+# Shadowrocket TikTok配置，iPhone Tiktok不拔卡教程，ios免拔卡看Tiktok抖音国际版
 
 操作步骤
-1、下载 Shadowrocket 和 TikTok，需要用美区AppleID下载，下载完先不要打开TikTok。
+1、下载 Shadowrocket 和 TikTok，需要用美区AppleID下载，下载完先不要打开TikTok
 
 2、打开Shadowrocket → 配置 → default.conf → 编辑配置 → HTTPS解密 → 开启HTTPS解密 → 生成新的CA订书 → 生成新的CA订书 → 安装证书 → 允许 → 打开设置 → 已下载描述文件 → 安装 → 安装 → 安装 → 完成 → 通用 → 关于本机 → 证书信任设置 → 开启信任Shadowrocket证书 → 继续 → 打开Shadowrocket → 关闭 → √ → √ → 配置 → default.conf → 编辑纯文本 → 滚动条拉到最下面
 在最下面粘贴以下代码：
+
 
 
 ```
@@ -32,5 +33,5 @@ hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
 英文简写 JP（日本）｜KR（韩国）｜UK（英国）｜US（美国）｜TW（中国台湾）  
 
 # IOS看不了TikTok解决方法：
-1、下载TikTok 21.1.0版本使用。
+1、下载TikTok 21.1.0版本使用
 2、插上手机卡，不要拔卡
