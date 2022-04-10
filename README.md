@@ -1,4 +1,4 @@
-# tiktok
+# Tiktok
 # Shadowrocket TikTok配置，iphone tiktok不拔卡教程，ios免拔卡
 
 操作步骤
@@ -27,10 +27,10 @@ hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
 4、打开TikTok App 即可实现免拔卡看，可以登录，评论。
 
 # 如何更改国家：
-默认是日本区，可以更改这行代码中的JP (?<=_region=)CN(?=&) JP 307
-美国示例： (?<=_region=)CN(?=&) US 307
-英文简写 JP（日本）｜KR（韩国）｜UK（英国）｜US（美国）｜TW（中国台湾）
+默认是日本区，可以更改这行代码中的JP (?<=_region=)CN(?=&) JP 307  
+美国示例： (?<=_region=)CN(?=&) US 307  
+英文简写 JP（日本）｜KR（韩国）｜UK（英国）｜US（美国）｜TW（中国台湾）  
 
 # IOS看不了TikTok解决方法：
 1、下载TikTok 21.1.0版本使用。
-2、插上手机卡，不要拔卡，看最新视频教程操作。
+2、插上手机卡，不要拔卡
