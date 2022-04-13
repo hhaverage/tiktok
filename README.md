@@ -22,5 +22,5 @@ hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
 英文简写 JP（日本）｜KR（韩国）｜UK（英国）｜US（美国）｜TW（中国台湾）  
 
 # IOS看不了TikTok解决方法：
-1、下载TikTok 21.1.0版本使用
-## 2、插上手机卡，不要拔卡
+#### 1、下载TikTok 21.1.0版本使用
+#### 2、插上手机卡，不要拔卡
