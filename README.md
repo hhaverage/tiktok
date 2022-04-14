@@ -1,7 +1,12 @@
+# Fiddler抓包工具代码：
+`bpu MZBuy.woa`
+
+TikTok版本号：21.1.0	      版本ID：844024073   
+TikTok版本号：21.1.0	      版本ID：843972181
+
+
+
 # Shadowrocket TikTok配置
-
-
-&nbsp;
 
 ```
 
